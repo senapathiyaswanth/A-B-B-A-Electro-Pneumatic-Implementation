@@ -1,4 +1,4 @@
-#  A+B+B−A Electro-Pneumatic Implementation using Arduino
+#  A+B+B−A- Electro-Pneumatic Implementation using Arduino
 
 ### 🎓 Semester 3 Project – Mechatronics  
 **Course:** Fluid Power Systems and Automation  
@@ -8,7 +8,7 @@
 
 ## 💡 Project Overview
 
-This project, titled **“A+B+B−A Electro-Pneumatic Implementation”**, demonstrates an **automatic pneumatic sequence control system** using **Arduino**, an **IR sensor**, and **220V AC solenoid valves** operated through **two 2-channel relay modules**.
+This project, titled **“A+B+B−A- Electro-Pneumatic Implementation”**, demonstrates an **automatic pneumatic sequence control system** using **Arduino**, an **IR sensor**, and **220V AC solenoid valves** operated through **two 2-channel relay modules**.
 
 Developed as part of our *Semester 3 – Fluid Power Systems and Automation* course, this system combines **pneumatics, electronics, and automation** to perform the sequence:
 
@@ -137,7 +137,7 @@ This file includes:
 
 ## 🏁 Conclusion
 
-The **“A+B+B−A Electro-Pneumatic Implementation”** project combines **Arduino control**, **sensor-based automation**, and **220V pneumatic actuation** into one integrated system.  
+The **“A+B+B−A- Electro-Pneumatic Implementation”** project combines **Arduino control**, **sensor-based automation**, and **220V pneumatic actuation** into one integrated system.  
 By using **two 2-channel relays** and an **IR-controlled start/stop mechanism**, this project reflects the **core principles of Mechatronics** — uniting **mechanical motion, electronic control, and programming logic** to achieve precise automation.
 
 ---
